@@ -27,14 +27,9 @@ class ViewController: UIViewController {
         
         let sum = firstNumber! + secondNumber! + thirdNumber! + fourthNumber! + fifthNumber!
         
-        let average = sum/5
+        let average = sum / 5
         
         outputLabel.text = "Average is \(average)"
-        
-        
-
-        
-        
         
     }
     override func viewDidLoad() {
