@@ -32,6 +32,9 @@ class ViewController: UIViewController {
         outputLabel.text = "Average is \(average)"
         
     }
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
